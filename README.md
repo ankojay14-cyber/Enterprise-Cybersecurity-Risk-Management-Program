@@ -162,10 +162,4 @@ The completed environment demonstrates how technical cybersecurity findings can 
 
 ## Disclaimer
 
-This repository is a simulated portfolio environment created to demonstrate the design, implementation, and operationalization of an Enterprise Cybersecurity Risk Management Program. All organizations, systems, risks, users, and data are fictional or sanitized. No confidential or proprietary information from any current or former employer is included.
-
----
-
-## Disclaimer
-
 This repository is a simulated portfolio environment. All organizations, systems, risks, users, and data are fictional or sanitized. No confidential or proprietary employer information is included.
