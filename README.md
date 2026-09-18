@@ -104,8 +104,8 @@ The completed environment demonstrates how cybersecurity findings can be transfo
 
 | Artifact | Purpose |
 |---|---|
-| Current-State Cyber Risk Assessment | Identifies existing program gaps and target-state requirements |
-| Cybersecurity Risk Management Policy | Establishes cyber risk management requirements |
+| [Current-State Cyber Risk Assessment](01-Foundation-Governance/Current-State-Cyber-Risk-Assessment.md) | Identifies existing program gaps and target-state requirements |
+| [Cybersecurity Risk Management Policy](01-Foundation-Governance/Cybersecurity-Risk-Management-Policy.pdf) | Establishes cyber risk management requirements |
 | Cyber Risk Governance / RACI | Defines roles, responsibilities, and accountability |
 | Risk Appetite & Tolerance Criteria | Defines acceptable risk boundaries and escalation thresholds |
 | Enterprise Cyber Risk Taxonomy | Standardizes cybersecurity risk categorization |
