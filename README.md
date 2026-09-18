@@ -130,5 +130,4 @@ Cybersecurity GRC • Enterprise Cyber Risk Management • GRC Program Developme
 ## Disclaimer
 
 This repository is a simulated portfolio environment created to demonstrate the design, implementation, and operationalization of an Enterprise Cybersecurity Risk Management Program. All organizations, systems, risks, users, and data are fictional or sanitized. No confidential or proprietary employer information is included.
-## Disclaimer
-This is a simulated portfolio project. All organizations, systems, risks, users, and data are fictional or sanitized. No confidential or proprietary employer information is included.
+
