@@ -1,103 +1,171 @@
-# Enterprise Cybersecurity Risk Register
+# Building an Enterprise Cybersecurity Risk Management Program
+
+### From Program Inception to Executive Risk Reporting
 
 ## Project Overview
 
-This project demonstrates the development and management of an enterprise cybersecurity risk register used to identify, assess, prioritize, treat, and monitor information security risks.
+This simulated project demonstrates how I would build and operationalize an **Enterprise Cybersecurity Risk Management Program from the ground up** for an organization without a centralized cyber risk capability.
 
-The register provides a structured approach for evaluating inherent risk, documenting existing controls, determining residual risk, assigning risk ownership, tracking remediation activities, and supporting risk-based decision-making.
+The project goes beyond creating a risk register to demonstrate the development of policy and governance, risk methodology, intake and assessment processes, treatment and acceptance workflows, remediation monitoring, continuous monitoring, and executive reporting.
 
-## Business Scenario
+> **Portfolio Notice:** All organizations, systems, risks, and data used in this project are fictional or sanitized.
 
-An organization needs a centralized process for identifying and managing cybersecurity risks across its technology environment. Risks may originate from vulnerabilities, third parties, cloud environments, access management, regulatory requirements, operational processes, or security control gaps.
+---
 
-The objective is to provide leadership with consistent visibility into cybersecurity risks and ensure that identified risks are appropriately evaluated, assigned, treated, and monitored.
+## Program Transformation
 
-## Objectives
+**Inception State:** Cybersecurity risks are identified across vulnerability management, cloud, IAM, third-party assessments, audits, compliance, incidents, and policy exceptions, but are tracked inconsistently with no centralized risk methodology, ownership model, or executive reporting.
 
-- Establish a centralized cybersecurity risk register
-- Document and categorize identified risks
-- Calculate inherent risk based on likelihood and impact
-- Document existing security controls
-- Evaluate control effectiveness
-- Determine residual risk
-- Assign risk owners and remediation owners
-- Track risk treatment and remediation activities
-- Monitor risk status and target completion dates
-- Support management reporting and risk-based decision-making
+**Completion State:** A structured cyber risk program is established with defined policy and governance, standardized assessment methodology, centralized risk tracking, defined ownership, treatment and acceptance workflows, continuous monitoring, and executive reporting.
 
-## Risk Management Methodology
+<!-- KEEP YOUR EXISTING CYBERSECURITY RISK MANAGEMENT DIAGRAM HERE -->
 
-The project follows the cybersecurity risk lifecycle:
+---
 
-**Identify → Assess → Analyze → Treat → Monitor → Report**
+## My Role
 
-### 1. Risk Identification
-Identify cybersecurity threats, vulnerabilities, control deficiencies, compliance gaps, and business impacts.
+In this simulated environment, I assume responsibility for designing and operationalizing the program from inception, including:
 
-### 2. Inherent Risk Assessment
-Evaluate the level of risk before considering existing controls using likelihood and impact.
+- Current-state assessment, policy, governance, and program design
+- Risk taxonomy, appetite/tolerance, and scoring methodology
+- Risk intake, assessment, and enterprise risk register development
+- Inherent/residual risk analysis and control effectiveness
+- Risk treatment, acceptance, remediation, and escalation
+- Continuous monitoring, KPI/KRI development, and executive reporting
 
-### 3. Control Evaluation
-Identify existing preventive, detective, and corrective controls and evaluate their effectiveness.
+---
 
-### 4. Residual Risk Assessment
-Determine the remaining level of risk after considering implemented controls.
+# Program Build
 
-### 5. Risk Treatment
-Determine the appropriate treatment strategy:
+## Phase 1 –  Foundation & Governance
 
-- Mitigate
-- Accept
-- Avoid
-- Transfer
+Established the policy and governance foundation required for consistent enterprise cybersecurity risk management.
 
-### 6. Monitoring and Reporting
-Track remediation activities, risk owners, due dates, risk status, and changes in residual risk over time.
+**Built:**
 
-## Framework Alignment
+- Current-State Cyber Risk Assessment
+- Cybersecurity Risk Management Policy
+- Cyber Risk Governance Model / RACI
+- Risk Appetite & Tolerance Criteria
+- Enterprise Cyber Risk Taxonomy
+- Risk Scoring Methodology
+- 5×5 Risk Matrix
 
-This project demonstrates concepts aligned with:
+**Outcome:** Established the policy, governance, accountability, risk tolerance, categorization, and scoring criteria required to operate the cyber risk management program.
 
-- NIST Cybersecurity Framework (CSF)
-- NIST SP 800-30 Risk Assessment
-- NIST SP 800-53 Security and Privacy Controls
-- ISO/IEC 27001 Information Security Management
-- ISO/IEC 27005 Information Security Risk Management
+---
 
-## Key Risk Register Components
+## Phase 2 – Risk Assessment & Treatment
 
-The risk register includes fields for:
+Designed the process for converting cybersecurity findings into documented and managed enterprise risks.
 
-- Risk ID
-- Risk description
-- Risk category
-- Threat
-- Vulnerability
-- Business impact
-- Likelihood
-- Impact
-- Inherent risk
-- Existing controls
-- Control effectiveness
-- Residual risk
-- Risk treatment
-- Risk owner
-- Remediation action
-- Target completion date
-- Risk status
+**Built:**
 
-## Tools & Technologies
+- Cybersecurity Risk Intake Workflow
+- Enterprise Cybersecurity Risk Register
+- Inherent Risk Assessment
+- Control Effectiveness Assessment
+- Residual Risk Methodology
+- Risk Treatment & Acceptance Workflow
 
-- Microsoft Excel
-- GRC / Risk Management Methodology
-- Risk Scoring Models
-- Security Control Mapping
-- Risk Reporting and Analysis
+📸 *Risk register and assessment screenshots will be added here.*
 
-## Project Artifacts
+**Outcome:** Created a repeatable process for identifying, assessing, owning, prioritizing, and treating cybersecurity risk.
 
-Supporting artifacts and screenshots will be provided within this repository.
+---
+
+## Phase 3 – Operationalization & Monitoring
+
+Established the processes required to operate the cyber risk program continuously.
+
+**Built:**
+
+- Remediation Tracker
+- Risk Ownership Process
+- Remediation Target Timelines
+- Escalation Workflow
+- Risk Review Cadence
+- Continuous Monitoring Process
+
+📸 *Remediation and monitoring screenshots will be added here.*
+
+**Outcome:** Enabled ongoing accountability, remediation tracking, escalation, reassessment, and continuous risk monitoring.
+
+---
+
+## Phase 4 – Executive Reporting & Oversight
+
+Converted cybersecurity risk data into management-level visibility and decision support.
+
+**Built:**
+
+- Cybersecurity KPIs
+- Cybersecurity KRIs
+- Enterprise Risk Heat Map
+- Risk Aging Analysis
+- Executive Risk Dashboard
+
+📸 *Executive dashboard and risk reporting screenshots will be added here.*
+
+**Outcome:** Provided leadership with visibility into risk exposure, remediation performance, overdue risks, residual risk, and emerging risk trends.
+
+---
+
+# Program Outcome
+
+### Before
+
+**Fragmented Tracking → Inconsistent Scoring → Unclear Ownership → Limited Monitoring → Limited Executive Visibility**
+
+### After
+
+**Policy & Governance → Centralized Intake → Standardized Assessment → Defined Ownership → Risk Treatment → Remediation → Continuous Monitoring → Executive Reporting**
+
+The completed environment demonstrates how technical cybersecurity findings can be transformed into **documented, owned, measurable, and actionable business risk decisions**.
+
+---
+
+# Project Artifacts
+
+| Artifact | Purpose |
+|---|---|
+| Current-State Cyber Risk Assessment | Identifies initial program gaps |
+| Cybersecurity Risk Management Policy | Establishes program requirements and governance |
+| Cyber Risk Governance / RACI | Defines roles, responsibilities, and accountability |
+| Risk Appetite & Tolerance Criteria | Defines acceptable risk boundaries and escalation thresholds |
+| Enterprise Cyber Risk Taxonomy | Standardizes risk categorization |
+| Risk Scoring Methodology | Defines likelihood, impact, and risk-rating criteria |
+| 5×5 Risk Matrix | Provides standardized risk severity visualization |
+| Cybersecurity Risk Intake Workflow | Standardizes how identified issues enter the risk process |
+| Enterprise Cybersecurity Risk Register | Serves as the central risk system of record |
+| Risk Treatment & Acceptance Workflow | Defines mitigation, acceptance, avoidance, and transfer |
+| Remediation Tracker | Tracks corrective actions, ownership, and target dates |
+| KPI/KRI Framework | Measures program performance and risk exposure |
+| Enterprise Risk Heat Map | Visualizes enterprise risk exposure |
+| Executive Risk Dashboard | Provides leadership-level risk reporting |
+
+---
+
+## Frameworks & Technologies
+
+**Frameworks:** NIST CSF | NIST SP 800-30 | NIST SP 800-53 | ISO/IEC 27001 | ISO/IEC 27005
+
+**Technologies:** Microsoft Excel | Microsoft Power BI | GRC Workflow Concepts
+
+---
 
 ## Skills Demonstrated
 
-**Cybersecurity Risk Management | Enterprise Risk Assessment | Risk Register Management | Inherent & Residual Risk Analysis | Control Effectiveness | Risk Treatment | Remediation Tracking | NIST CSF | NIST SP 800-30 | NIST SP 800-53 | ISO 27001 | GRC**
+**Cybersecurity GRC • GRC Program Development • Enterprise Cyber Risk Management • Risk Governance • Policy Development • Risk Appetite & Tolerance • Risk Assessment • Risk Register Management • Risk Taxonomy • Inherent Risk • Residual Risk • Control Effectiveness • Risk Treatment • Risk Acceptance • Remediation Management • Continuous Monitoring • KRIs/KPIs • Executive Reporting**
+
+---
+
+## Disclaimer
+
+This repository is a simulated portfolio environment created to demonstrate the design, implementation, and operationalization of an Enterprise Cybersecurity Risk Management Program. All organizations, systems, risks, users, and data are fictional or sanitized. No confidential or proprietary information from any current or former employer is included.
+
+---
+
+## Disclaimer
+
+This repository is a simulated portfolio environment. All organizations, systems, risks, users, and data are fictional or sanitized. No confidential or proprietary employer information is included.
