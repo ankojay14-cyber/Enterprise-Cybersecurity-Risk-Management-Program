@@ -109,14 +109,14 @@ The completed environment demonstrates how cybersecurity findings can be transfo
 | Cyber Risk Governance / RACI | Defines roles, responsibilities, and accountability |
 | Risk Appetite & Tolerance Criteria | Defines acceptable risk boundaries and escalation thresholds |
 | Enterprise Cyber Risk Taxonomy | Standardizes cybersecurity risk categorization |
-| Risk Scoring Methodology & 5×5 Matrix | Standardizes likelihood, impact, and risk ratings |
+| [Risk Scoring Methodology & 5×5 Matrix](artifacts/KTECH-Enterprise-Cybersecurity-Risk-Register.xlsx) | Standardizes likelihood, impact, and risk ratings |
 | Cybersecurity Risk Intake Workflow | Defines how cybersecurity findings enter the risk process |
-| Enterprise Cyber Risk Register | Centralizes risk assessment, ownership, treatment, and status |
+| [Enterprise Cyber Risk Register](artifacts/KTECH-Enterprise-Cybersecurity-Risk-Register.xlsx) | Centralizes risk assessment, ownership, treatment, and status |
 | Risk Treatment & Acceptance Workflow | Defines mitigation, acceptance, avoidance, and transfer |
-| Remediation Tracker | Tracks corrective actions, ownership, and target dates |
+| [Remediation Tracker](artifacts/KTECH-Enterprise-Cybersecurity-Risk-Register.xlsx) | Tracks corrective actions, ownership, and target dates |
 | KPI/KRI Framework | Measures program performance and risk exposure |
-| Enterprise Risk Heat Map | Visualizes cybersecurity risk exposure |
-| Executive Risk Dashboard | Provides leadership-level risk reporting |
+| [Enterprise Risk Heat Map](artifacts/KTECH-Enterprise-Cybersecurity-Risk-Register.xlsx) | Visualizes cybersecurity risk exposure |
+| [Executive Risk Dashboard](artifacts/KTECH-Enterprise-Cybersecurity-Risk-Register.xlsx) | Provides leadership-level risk reporting |
 
 ## Frameworks & Technologies
 
